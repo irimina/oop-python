@@ -60,7 +60,7 @@ jessie.goto(-160, 10)
 jessie.pendown()
 
 
-# let's meake the turtle objects race
+# let's make the turtle objects race
 
 for movement in range(100):
     laura.forward(randint(1,8))
