@@ -1,3 +1,4 @@
+# This code establishes the classes for a Rectangle, Triangle and an Oval
 # This code requires Python 3 and tkinter (which is usually installed by default)
 # This code will NOT work on trinket.io as the tkinter module is not supported
 # Raspberry Pi Foundation 2017
